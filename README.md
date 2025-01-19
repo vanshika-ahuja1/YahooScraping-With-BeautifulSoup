@@ -15,8 +15,11 @@ A simple Python-based web scraper that extracts news articles from Yahoo News us
 
 # Usage
 To use the scraper, simply run the Python script with your desired search term.
+
 **python yahoo-news-scrapper.py**
+
 Example:
+
 news_data = scrape_news('los angeles fire')
 
 # Screenshot of Yahoo News
